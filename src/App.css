@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+input[type='text'] {
+  margin-right: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+li span {
+  margin-left: 0.5rem;
+}
+
+button {
+  margin-left: 0.5rem;
+}
